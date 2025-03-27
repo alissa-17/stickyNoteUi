@@ -54,7 +54,7 @@ textarea {
   cursor: pointer;
   padding: 8px;
   font-weight: bolder;
-  background-color: #eee;
+  background-color: whitesmoke;
   outline: none;
 }
 
@@ -63,9 +63,9 @@ textarea {
   width: 200px;
   height: 200px;
   margin: 10px;
-  background-color: lightyellow;
-  border: 1px solid grey;
-  box-shadow: 2px 2px 3px lightgrey;
+  background-color: hotpink;
+  border: 1px solid black;
+  box-shadow: 2px 2px 3px black;
   border-radius: 5px;
   display: flex;
   flex-direction: column;
@@ -95,7 +95,7 @@ textarea {
   top: 0px;
   right: 0px;
   font-size: 20px;
-  color: lightgrey;
+  color: black;
   padding: 5px;
 }
 
