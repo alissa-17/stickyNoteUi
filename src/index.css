@@ -27,8 +27,14 @@ textarea {
 }
 
 .app-header__title {
-  margin: 10px 20px 0px;
+  margin: 20px;
+  padding: 20px 15px;
   font-family: Arial, sans-serif;
+  background-color: blueviolet;
+  color: white;
+  height: 5rem;
+  width: fit-content;
+  border-radius: 10px;
 }
 
 .app-header__controls {
